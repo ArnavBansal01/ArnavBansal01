@@ -21,15 +21,15 @@ I enjoy creating solutions that solve real problems and deliver personalized use
 
 🔹 Areas of Interest
 - Application Development (Android / Kotlin)
-- Web Development & Product Engineering
-- Machine Learning (Recommendation Systems, Data-Driven Features)
+- Web Development
+- Machine Learning
 - Software Design & Scalable Systems
 
 🔹 Tech Stack
 - Languages: Kotlin, Python (working knowledge), Java (foundational)
 - App Development: Android (Kotlin)
 - Web: HTML, CSS, JavaScript
-- ML & Data: Machine Learning fundamentals, personalization logic
+- ML & Data: Machine Learning fundamentals
 - Tools: Git, GitHub, VS Code, Android Studio
 
 🔹 Projects
