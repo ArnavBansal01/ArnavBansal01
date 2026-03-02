@@ -69,8 +69,8 @@ I'm a **Computer Science undergraduate** passionate about building practical sof
   <a href="https://github.com/ArnavBansal01" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="linkedin.com/in/arnavansal01" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Linkedi" />
+  <a href="https://www.linkedin.com/in/arnavbansal01" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
