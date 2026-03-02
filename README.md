@@ -57,8 +57,10 @@ I'm a **Computer Science undergraduate** passionate about building practical sof
 ### � GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArnavBansal01&show_icons=true&theme=radical" alt="Arnav's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavBansal01&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArnavBansal01&theme=radical" alt="GitHub Streak Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArnavBansal01&theme=web-beautify" alt="GitHub Activity Graph" />
 </p>
 
 ---
