@@ -10,13 +10,13 @@ I'm a **Computer Science undergraduate** passionate about building practical sof
 
 ### 🚀 Quick Glance
 
-- � I’m currently working on **production-ready applications with clean architecture**.
+- 🔭 I’m currently working on **production-ready applications with clean architecture**.
 - 🌱 I’m currently learning **advanced recommendation logic and user personalization**.
 - ⚡ Fun fact: I believe hands-on practical learning is the best way to master any technology!
 
 ---
 
-### �️ Tech Stack
+### 🛠️ Tech Stack
 
 <p align="left">
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin" /> </a>
@@ -41,7 +41,7 @@ I'm a **Computer Science undergraduate** passionate about building practical sof
 
 ---
 
-### � Featured Projects
+### 📂 Featured Projects
 
 - **Learning Platform with Personalized Recommendations**  
   *A web-based platform that helps users learn any skill through personalized content and progress tracking.*
@@ -54,7 +54,7 @@ I'm a **Computer Science undergraduate** passionate about building practical sof
 
 ---
 
-### � GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArnavBansal01&theme=radical" alt="GitHub Streak Stats" />
@@ -81,4 +81,3 @@ I'm a **Computer Science undergraduate** passionate about building practical sof
 <p align="center">
   <i>"Building the future, one line of code at a time."</i>
 </p>
-
